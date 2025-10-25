@@ -8,16 +8,16 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "dependencies": {
-    "ethers": "^6.13.2",
-    "lucide-react": "^0.446.0",
-    "@radix-ui/react-button": "^1.1.0",
-    "@radix-ui/react-card": "^1.1.0",
-    "@radix-ui/react-dialog": "^1.1.1",
-    "@radix-ui/react-input": "^1.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
+"dependencies": {
+  "ethers": "^6.13.2",
+  "lucide-react": "^0.446.0",
+  "@radix-ui/react-button": "^1.0.3",
+  "@radix-ui/react-card": "^1.0.7",
+  "@radix-ui/react-dialog": "^1.0.5",
+  "@radix-ui/react-input": "^1.0.3",
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0"
+}
   "devDependencies": {
     "tailwindcss": "^3.4.10",
     "postcss": "^8.4.47",
